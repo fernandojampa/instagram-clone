@@ -1,6 +1,6 @@
 # #Página clone do Instagram
 
-### Página criada usando apenas elementos Flexbox e media queries para responsividade. :computer: :iphone:
+### Página criada usando elementos Flexbox e media queries para responsividade. :computer: :iphone:
 
 
 
